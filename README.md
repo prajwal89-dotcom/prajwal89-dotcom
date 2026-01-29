@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Currently Learning ⚛️ Advanced React patterns 🎨 Tailwind CSS best practices<br><br>🚀 Performance optimization & modern UI/UX trends<br><br>🛠️ Tech Stack<br><br>💻 Languages: HTML, CSS, JavaScript<br><br>⚙️ Frameworks & Libraries: React.js<br><br>🎨 Styling: Tailwind CSS, Bootstrap<br><br>🧰 Tools: Git, GitHub, VS Code<br><br>📡 Basics: REST APIs, Responsive Design, SEO-friendly UI<br><br>🚀 What I Do<br><br>📱 Build responsive and interactive web interfaces<br><br>🎯 Convert designs into pixel-perfect UI<br><br>⚡ Focus on performance, accessibility, and clean code<br><br>🧩 Create reusable components and scalable layouts
+🌱 Currently Learning ⚛️ Advanced React patterns 🎨 Tailwind CSS best practices<br>🚀 Performance optimization & modern UI/UX trends<br><br>🛠️ Tech Stack<br><br>💻 Languages: HTML, CSS, JavaScript<br><br>⚙️ Frameworks & Libraries: React.js<br><br>🎨 Styling: Tailwind CSS, Bootstrap<br><br>🧰 Tools: Git, GitHub, VS Code<br><br>📡 Basics: REST APIs, Responsive Design, SEO-friendly UI<br><br>🚀 What I Do<br><br>📱 Build responsive and interactive web interfaces<br><br>🎯 Convert designs into pixel-perfect UI<br><br>⚡ Focus on performance, accessibility, and clean code<br><br>🧩 Create reusable components and scalable layouts
 
 
 ## 🌐 Socials:
