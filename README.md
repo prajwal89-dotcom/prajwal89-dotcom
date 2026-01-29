@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Currently Learning ⚛️ Advanced React patterns 🎨 Tailwind CSS best practices<br>🚀 Performance optimization & modern UI/UX trends<br>🛠️ Tech Stack<br> HTML, CSS, JavaScript<br><br> React.js<br> Tailwind CSS, Bootstrap<br> Git, GitHub, VS Code<br> REST APIs, Responsive Design, SEO-friendly UI<br><br>🚀 What I Do<br><br>📱 Build responsive and interactive web interfaces
+🌱 Currently Learning ⚛️ Advanced React patterns 🎨 Tailwind CSS best practices<br>🚀 Performance optimization & modern UI/UX trends<br>🛠️ Tech Stack<br> HTML, CSS, JavaScript React.js Tailwind CSS, Bootstrap<br> Git, GitHub, VS Code<br> REST APIs, Responsive Design, SEO-friendly UI<br><br>🚀 What I Do<br><br>📱 Build responsive and interactive web interfaces
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prajwal-m-4ba612259) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pprajwalm0@gmail.com) 
